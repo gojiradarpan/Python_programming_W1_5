@@ -1,4 +1,4 @@
-print("Calculate the area of wall.")
+print("Calculate the area of a wall.")
 feed = input("Enter the width of wall in metre: ")
 width = float(feed)
 feed = input("Enter the height of the wall in metre: ")
