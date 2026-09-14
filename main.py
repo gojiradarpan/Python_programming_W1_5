@@ -5,4 +5,4 @@ feed = input("Enter the height in meters: ")
 Height = float(feed)
 Area = Width * Height
 print(f"Width is {Width:g} m and height is {Height:g} m.")
-print(f"The wall will be {Area} square meters.")
+print(f"The wall will be {Area:g} square meters.")
